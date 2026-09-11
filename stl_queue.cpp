@@ -1,5 +1,5 @@
 // write an c++ program using STL queue to perform push, pop, front, back, size, empty operations on queue.
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main() {
